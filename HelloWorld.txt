@@ -7,6 +7,8 @@ class HelloWorld
 
 	public static void main(String args[])
 	{
+		HelloWorld hw = new HelloWorld();
+		hw.myMethod();
 
 		System.out.println("Hello World....Welcome ..!!");
 
