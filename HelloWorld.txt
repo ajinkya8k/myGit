@@ -1,5 +1,9 @@
 class HelloWorld
 {
+	void myMethod(){
+		System.out.println("Ajinkya");
+		
+	}
 
 	public static void main(String args[])
 	{
